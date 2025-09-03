@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NorthWind.Sales.Entities",
+              "Title": "NorthWind.Sales.Entities.csproj",
               "DocumentMoniker": "C:\\Tecnologias y Desarollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
               "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
               "ToolTip": "C:\\Tecnologias y Desarollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
               "RelativeToolTip": "NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T17:22:52.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T17:22:52.82Z"
             }
           ]
         }
